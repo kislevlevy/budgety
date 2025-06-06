@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
    ```
 3. Open `index.html` in your preferred web browser.
 
-> You can also preview the app by visiting the following link: [Use Budgety](http://kislev.me/budgety)
+> You can also preview the app by visiting the following link: [Use Budgety](https://kislevlevy.github.io/budgety/)
 
 ## How to Use
 
